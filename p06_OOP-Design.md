@@ -4,7 +4,7 @@
 ### Objetivos
 Los objetivos de esta práctica son:
 * Poner en práctica metodologías y conceptos de Programación Orientada a Objetos en TypeScript.
-* Poner en práctica Principios y Buenas prácticas de programación Orientada a Objetos.
+* Poner en práctica principios y buenas prácticas de programación.
 
 ### Rúbrica de evaluacion del ejercicio
 Se señalan a continuación los aspectos más relevantes (la lista no es exhaustiva)
